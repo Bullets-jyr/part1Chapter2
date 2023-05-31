@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="300dp"
         android:gravity="center"
-        android:text="100"
+        android:text="0"
         android:textColor="@color/blue"
         android:textSize="100sp"
         android:textStyle="bold|italic" />
